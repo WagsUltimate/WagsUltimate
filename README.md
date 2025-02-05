@@ -1,6 +1,7 @@
 ## What's cookin, good lookin? 👋
 
-- I'm currently learning Advanced C++
+- I'm currently learning advanced C++
+- I'm currently attending my last semester at Hagerstown Community College
 - I am working on school projects, including two weekly C++ projects
 - I'm looking for help in refining my programming, if you have any advice let me know.
 - You can reach me at my email, mikeprogramming@hotmail.com
