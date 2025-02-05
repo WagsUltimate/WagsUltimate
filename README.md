@@ -1,4 +1,12 @@
-## Hi there 👋
+## What's cookin, good lookin? 👋
+
+- I'm currently learning Advanced C++
+- I am working on school projects, including two weekly C++ projects
+- I'm looking for help in refining my programming, if you have any advice let me know.
+- You can reach me at my email, mikeprogramming@hotmail.com
+- I have some experience in Java, Python and C++
+- When I have free time, (not much right now) I'm trying to learn how to use Godot
+
 
 <!--
 **WagsUltimate/WagsUltimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
